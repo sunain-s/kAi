@@ -63,7 +63,8 @@ User manual can be accessed at all times within the menu and chat window by clic
 
 ## Improvements
 
-- The currently used corpus is a test corpus
+- The currently used corpus is a dummy corpus - general corpora needs to be implemented
+    - Originally implemented with a custom corpora designed for my client
 - Deep learning AI rather than a semi-retrieval based AI which constructs the messages itself
     - would require lots of training to reach an acceptable quality
 - Fix the message send and recieve timings, along with the notifications
